@@ -14,6 +14,6 @@ Python tool for extracting biomedical relationships from text as `(entity1, rela
 
 ```bash
 pip install spacy cupy
-# Optional: install biomedical NER model
+# Install biomedical NER model
 python -m spacy download en_ner_bionlp13cg_md
 python -m spacy download en_core_web_sm
